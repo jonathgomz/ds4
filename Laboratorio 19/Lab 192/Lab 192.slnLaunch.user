@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Lab 19-1",
+    "Projects": [
+      {
+        "Path": "Lab 192\\Lab 192.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

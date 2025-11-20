@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Lab191\\Lab191.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
